@@ -5,3 +5,5 @@
 5.  funny: https://courageous-frangipane-2bac3b.netlify.app/
 6.  Sing up: https://stalwart-mandazi-fbf8ff.netlify.app
 7.  animation: https://vocal-sunshine-2dcc79.netlify.app/
+8.  card: https://famous-dolphin-51ff1f.netlify.app/
+9.   Photography: https://wonderful-ganache-168e09.netlify.app/
